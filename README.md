@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmsardim
 - 👀 I’m interested in Web Depvelopment
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on email
 - 📫 How to reach me dimasardiyanto19@gmail.com
 
